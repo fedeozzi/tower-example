@@ -1,8 +1,8 @@
 ---
-- name: Hello World!
+- name: Ciao Federica!
   hosts: all
  
   tasks:
  
-  - name: Hello World!
-    shell: echo "Hi! Tower is working."
+  - name: Ciao Federica!
+    shell: echo "Yuki è una puzzola"
